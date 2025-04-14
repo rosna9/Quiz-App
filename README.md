@@ -23,4 +23,4 @@ This is a simple interactive web application where users answer fill-in-the-blan
 
 ## Folder Structure
 
-
+(image.png)
